@@ -1,0 +1,29 @@
+/*
+* {    border:  blue 1px solid; }
+*/
+.style-paragraphe1{
+    color: rgb(173, 13, 13);
+    text-align: center;
+}
+
+/* Title*/
+h1{
+    font-weight: initial;
+    text-align: center;
+}
+
+a{
+   text-decoration: none;
+}
+
+img.alignCenter{
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif
+}
+.conteneur{
+    text-align: center;
+}
